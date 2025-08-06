@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+
+# Ignore server .env file
+server/.env
+
+# Ignore node_modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build and log files
+build/
+dist/
+*.log
+
+# OS/system files
+.DS_Store
